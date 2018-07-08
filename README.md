@@ -1,4 +1,4 @@
-										# NYC_Subway_Data_Analysis
+# NYC_Subway_Data_Analysis
 
 ## About this Project-:
 This is a project about analysing new york city subway data which is in the form of big data.This project is basically categorized into three parts which are-:
@@ -18,7 +18,7 @@ First of all make sure that you are working on the latest version of python that
 
 3. After you are done installing this software follow the given below steps.
 
-## How to run your program-:
+## How to run your programs-:
 
 1. After installing anaconda successfully try open the terminal or command prompt based on the machines and run the command "jupyter notebook"
 
